@@ -17,7 +17,7 @@ package backoff_test
 import (
 	"net/http"
 
-	"github.com/tradyfinance/backoff"
+	"github.com/jadefox10200/backoff"
 )
 
 func Example() {
